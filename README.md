@@ -3,7 +3,7 @@
 **An AI-powered legal assistant to demystify complex legal documents for the average Indian citizen.**
 
 
-### [➡️ View Live Demo]([(https://sanjaykumar-nb.github.io/Legalease-AI/])
+### [➡️ View Live Demo]([https://sanjaykumar-nb.github.io/Legalease-AI/])
 
 ## The Problem
 
