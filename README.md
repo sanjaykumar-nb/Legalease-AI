@@ -48,7 +48,7 @@ This approach ensures maximum privacy and security, as the user's sensitive docu
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/sanjaykumar-nb/genai.git](https://github.com/sanjaykumar-nb/genai.git)
+    git clone (https://github.com/sanjaykumar-nb/genai.git](https://github.com/sanjaykumar-nb/Legalease-AI)
     ```
 2.  **Navigate to the project directory:**
     ```bash
