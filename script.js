@@ -1,5 +1,4 @@
 // --- Configuration ---
-const API_KEY = 'AIzaSyB4uwMKOKq4botarTP_s0pImbQPZX1_8pI'; // PASTE YOUR KEY HERE
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${API_KEY}`;
 
 // --- PDF.js Setup ---
@@ -208,4 +207,5 @@ function showStatus(message, type) {
     statusMessage.textContent = message;
     statusMessage.className = `status ${type}`;
     statusMessage.style.display = 'block';
+
 }
