@@ -3,9 +3,6 @@
 **An AI-powered legal assistant to demystify complex legal documents for the average Indian citizen.**
 
 
-### [➡️ View Live Demo]
-https://sanjaykumar-nb.github.io/Legalease-AI/
-
 ## The Problem
 
 In India, the average citizen is frequently required to sign legal documents for renting a house, taking a loan, or starting a job. These documents are often filled with dense legal jargon, creating a significant **information asymmetry**. This knowledge gap puts individuals at a disadvantage, potentially leading them to agree to unfair terms, hidden clauses, and significant financial risks. Access to professional legal advice is often expensive and time-consuming, leaving many people feeling vulnerable and unempowered.
